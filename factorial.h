@@ -1,5 +1,5 @@
 #pragma once
 
 namespace combinatorics {
-	unsigned int factorial(unsigned int n);
+	unsigned long long factorial(unsigned long long n);
 }
