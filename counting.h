@@ -1,7 +1,7 @@
 #pragma once
 
 namespace combinatorics {
-	unsigned int perm(unsigned int n, unsigned int r);
+	unsigned long long perm(unsigned long long n, unsigned long long r);
 
-	unsigned int comb(unsigned int n, unsigned int r);
+	unsigned long long comb(unsigned long long n, unsigned long long r);
 }
